@@ -1,0 +1,922 @@
+.root {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  width: 100%;
+  height: 100%;
+  justify-content: flex-start;
+  align-items: center;
+  align-content: unset;
+  min-width: 0;
+  min-height: 0;
+}
+.mapPageDesktop {
+  background: rgba(255, 255, 255, 1);
+  width: 1440px;
+  height: 1770px;
+  display: block;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.svg__rUf2B {
+  position: absolute;
+  object-fit: cover;
+  width: 589px;
+  height: 1px;
+  color: #bfc0c0;
+  transform: rotate(-90deg) translate(-0.5px, 0.009999999999990905px);
+  display: block;
+  transform-origin: top left;
+  top: 888px;
+  left: 1067px;
+}
+.photo202108171656131 {
+  background: url("/plasmic/project_web/images/photo202108171656132.jpeg") 0px 0px / 115px 90.742px no-repeat;
+  width: 115px;
+  height: 91px;
+  display: block;
+  position: absolute;
+  top: 27px;
+  left: 662px;
+}
+.svg__qguwd {
+  position: absolute;
+  object-fit: cover;
+  width: 1155px;
+  height: 1px;
+  color: #bfc0c0;
+  transform: scale(1.000000499999875, 0.999999500000375)
+    rotate(-0.057295760416576934deg) skew(-0.05729570311883569deg, 0deg)
+    translate(-0.006000000000000227px, -0.5px);
+  display: block;
+  transform-origin: top left;
+  top: 142px;
+  left: 143px;
+}
+.svg__c5URi {
+  position: absolute;
+  object-fit: cover;
+  width: 1155px;
+  height: 1px;
+  color: #bfc0c0;
+  transform: scale(1.000000499999875, 0.999999500000375)
+    rotate(-0.057295760416576934deg) skew(-0.05729570311883569deg, 0deg);
+  display: block;
+  transform-origin: top left;
+  top: 193px;
+  left: 143px;
+}
+.svg__vLe06 {
+  position: absolute;
+  object-fit: cover;
+  width: 184px;
+  height: 1px;
+  color: #bf211e;
+  transform: scale(1.000000499999875, 0.999999500000375)
+    rotate(-0.057295760416576934deg) skew(-0.05729570311883569deg, 0deg);
+  display: block;
+  transform-origin: top left;
+  top: 306px;
+  left: 1113px;
+}
+.svg__s6XMt {
+  position: absolute;
+  object-fit: cover;
+  width: 165px;
+  height: 1px;
+  color: #bf211e;
+  transform: scale(1.000000499999875, 0.999999500000375)
+    rotate(-0.057295760416576934deg) skew(-0.05729570311883569deg, 0deg);
+  display: block;
+  transform-origin: top left;
+  top: 182px;
+  left: 1132px;
+}
+.svg__juZrs {
+  position: absolute;
+  object-fit: cover;
+  width: 258px;
+  height: 1px;
+  color: #bf211e;
+  transform: scale(1.000000499999875, 0.999999500000375)
+    rotate(-0.057295760416576934deg) skew(-0.05729570311883569deg, 0deg);
+  display: block;
+  transform-origin: top left;
+  top: 306px;
+  left: 143px;
+}
+.underlinePartners {
+  position: absolute;
+  object-fit: cover;
+  width: 198px;
+  height: 1px;
+  color: #bf211e;
+  transform: scale(0.999, 0.999);
+  display: block;
+  transform-origin: top left;
+  top: 1217px;
+  left: 143px;
+}
+.group8 {
+  width: 823px;
+  height: 19px;
+  display: block;
+  position: absolute;
+  top: 159px;
+  left: 474px;
+}
+.freeBox__i7Ga0 {
+  display: block;
+  font-size: 14.725px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  letter-spacing: -0.005em;
+  line-height: 1.29999;
+  color: rgba(24, 22, 21, 1);
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+.freeBox__cqlW6 {
+  display: block;
+  font-size: 14.725px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  letter-spacing: -0.005em;
+  line-height: 1.29999;
+  color: rgba(24, 22, 21, 1);
+  position: absolute;
+  top: 0px;
+  left: 170px;
+}
+.freeBox__royAx {
+  display: block;
+  font-size: 14.725px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  letter-spacing: -0.005em;
+  line-height: 1.29999;
+  color: rgba(24, 22, 21, 1);
+  position: absolute;
+  top: 0px;
+  left: 362px;
+}
+.freeBox__ge8Bq {
+  display: block;
+  font-size: 14.725px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  letter-spacing: -0.005em;
+  line-height: 1.29999;
+  color: rgba(24, 22, 21, 1);
+  position: absolute;
+  top: 0px;
+  left: 498px;
+}
+.freeBox___6GsUj {
+  display: block;
+  font-size: 14.725px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  letter-spacing: -0.005em;
+  line-height: 1.29999;
+  color: rgba(24, 22, 21, 1);
+  position: absolute;
+  top: 0px;
+  left: 658px;
+}
+.group1 {
+  transform: scale(0.9990320315185094, 1.000224185485975)
+    rotate(89.54118474633073deg) skew(1.375663258162837deg, 0deg)
+    translate(-0.132000000000005px, 0px);
+  width: 30px;
+  height: 29px;
+  display: block;
+  transform-origin: top left;
+  position: absolute;
+  top: 152px;
+  left: 172px;
+}
+.verify1 {
+  background: url("/plasmic/project_web/images/verify2.png") center center / cover no-repeat;
+  width: 30px;
+  height: 29px;
+  display: block;
+  transform-origin: top left;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+.rectangle3 {
+  background: rgba(255, 255, 255, 1);
+  transform: translate(0.04635448773888129px, -0.3846291640981008px);
+  width: 15px;
+  height: 11px;
+  display: block;
+  transform-origin: top left;
+  position: absolute;
+  top: 6px;
+  left: 4px;
+}
+.group10 {
+  width: 129px;
+  height: 19px;
+  display: block;
+  position: absolute;
+  top: 158px;
+  left: 216px;
+}
+.freeBox__rt6Kv {
+  display: block;
+  font-size: 14.725px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  letter-spacing: -0.005em;
+  line-height: 1.29999;
+  color: rgba(24, 22, 21, 1);
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+.svg__wkAo9 {
+  position: absolute;
+  object-fit: cover;
+  width: 12px;
+  height: 8px;
+  color: #191716;
+  transform: scale(1.000000499999875, 0.999999500000375)
+    rotate(-179.94270423958343deg) skew(0.05729570311883569deg, 0deg)
+    translate(-0.18200000000001637px, 0px);
+  display: block;
+  transform-origin: top left;
+  top: 16px;
+  left: 129px;
+  border-radius: 1.246px;
+}
+.mapHeader {
+  display: block;
+  font-size: 23.048px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.005em;
+  line-height: 1.29999;
+  color: rgba(0, 0, 0, 1);
+  position: absolute;
+  top: 271px;
+  left: 143px;
+}
+.pertnersHeader {
+  display: block;
+  font-size: 23.048px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.005em;
+  line-height: 1.29999;
+  color: rgba(0, 0, 0, 1);
+  position: absolute;
+  top: 1182px;
+  left: 143px;
+}
+.freeBox__x7KHf {
+  display: block;
+  font-size: 23.048px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.005em;
+  line-height: 1.29999;
+  color: rgba(0, 0, 0, 1);
+  position: absolute;
+  top: 271px;
+  left: 1113px;
+}
+.profile {
+  width: 184px;
+  height: 235px;
+  display: block;
+  position: absolute;
+  top: 340px;
+  left: 1113px;
+}
+.group24 {
+  width: 184px;
+  height: 183px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+.person {
+  background: url("/plasmic/project_web/images/image27.png") 0px -26.486842105263158px / 183px 240.78947368421052px
+    no-repeat;
+  width: 183px;
+  height: 183px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+.svg___2Sncu {
+  position: absolute;
+  object-fit: cover;
+  width: 102px;
+  height: 21px;
+  color: #bf211e;
+  display: block;
+  top: 162px;
+  left: 0px;
+}
+.freeBox__uni8W {
+  display: block;
+  font-size: 11.524px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.005em;
+  line-height: 1.29999;
+  color: rgba(255, 255, 255, 1);
+  position: absolute;
+  top: 165px;
+  left: 5px;
+  width: 69px;
+  height: 15px;
+}
+.text {
+  display: block;
+  font-size: 18.684px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  letter-spacing: -0.005em;
+  line-height: 1.07999;
+  color: rgba(0, 0, 0, 1);
+  position: absolute;
+  top: 195px;
+  left: 0px;
+  width: 184px;
+  height: 40px;
+}
+.profile2 {
+  width: 184px;
+  height: 235px;
+  display: block;
+  position: absolute;
+  top: 604px;
+  left: 1113px;
+}
+.group25 {
+  width: 184px;
+  height: 183px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+.person2 {
+  background: url("/plasmic/project_web/images/image28.png") -79.04456327985739px -0.9205231388329981px /
+    327.9857397504456px 184.1046277665996px no-repeat;
+  width: 184px;
+  height: 183px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+.svg___1Ws4D {
+  position: absolute;
+  object-fit: cover;
+  width: 102px;
+  height: 21px;
+  color: #bf211e;
+  display: block;
+  top: 162px;
+  left: 0px;
+}
+.freeBox__rSQmP {
+  display: block;
+  font-size: 11.524px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.005em;
+  line-height: 1.29999;
+  color: rgba(255, 255, 255, 1);
+  position: absolute;
+  top: 165px;
+  left: 5px;
+  width: 69px;
+  height: 15px;
+}
+.text2 {
+  display: block;
+  font-size: 18.684px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  letter-spacing: -0.005em;
+  line-height: 1.07999;
+  color: rgba(0, 0, 0, 1);
+  position: absolute;
+  top: 195px;
+  left: 0px;
+  width: 184px;
+  height: 40px;
+}
+.profile3 {
+  width: 184px;
+  height: 235px;
+  display: block;
+  position: absolute;
+  top: 868px;
+  left: 1113px;
+}
+.group23 {
+  width: 184px;
+  height: 183px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+.person3 {
+  background: url("/plasmic/project_web/images/image26.png") -48.95412844036696px -12.860599078341012px /
+    281.3455657492354px 210.82949308755758px no-repeat;
+  width: 184px;
+  height: 183px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+.svg__zwRux {
+  position: absolute;
+  object-fit: cover;
+  width: 102px;
+  height: 21px;
+  color: #bf211e;
+  display: block;
+  top: 162px;
+  left: 0px;
+}
+.freeBox__c5WjI {
+  display: block;
+  font-size: 11.524px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.005em;
+  line-height: 1.29999;
+  color: rgba(255, 255, 255, 1);
+  position: absolute;
+  top: 165px;
+  left: 5px;
+  width: 69px;
+  height: 15px;
+}
+.text3 {
+  display: block;
+  font-size: 18.684px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  letter-spacing: -0.005em;
+  line-height: 1.07999;
+  color: rgba(0, 0, 0, 1);
+  position: absolute;
+  top: 195px;
+  left: 0px;
+  width: 184px;
+  height: 40px;
+}
+.freeBox__biiRb {
+  display: block;
+  font-size: 11px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.005em;
+  line-height: 1.18499;
+  color: rgba(190, 191, 191, 1);
+  position: absolute;
+  top: 202px;
+  left: 143px;
+}
+.union1 {
+  background: url("/plasmic/project_web/images/union2.png") center center / cover no-repeat;
+  width: 120px;
+  height: 28px;
+  display: block;
+  position: absolute;
+  top: 1281px;
+  left: 143px;
+}
+.union8 {
+  background: url("/plasmic/project_web/images/union2.png") center center / cover no-repeat;
+  width: 120px;
+  height: 28px;
+  display: block;
+  position: absolute;
+  top: 1355px;
+  left: 143px;
+}
+.union3 {
+  background: url("/plasmic/project_web/images/union2.png") center center / cover no-repeat;
+  transform: translate(0.06200000000001182px, 0px);
+  width: 120px;
+  height: 28px;
+  display: block;
+  position: absolute;
+  top: 1281px;
+  left: 484px;
+}
+.union9 {
+  background: url("/plasmic/project_web/images/union2.png") center center / cover no-repeat;
+  transform: translate(0.06200000000001182px, 0px);
+  width: 120px;
+  height: 28px;
+  display: block;
+  position: absolute;
+  top: 1355px;
+  left: 484px;
+}
+.union5 {
+  background: url("/plasmic/project_web/images/union2.png") center center / cover no-repeat;
+  transform: translate(0.125px, 0px);
+  width: 120px;
+  height: 28px;
+  display: block;
+  position: absolute;
+  top: 1281px;
+  left: 825px;
+}
+.union10 {
+  background: url("/plasmic/project_web/images/union2.png") center center / cover no-repeat;
+  transform: translate(0.125px, 0px);
+  width: 120px;
+  height: 28px;
+  display: block;
+  position: absolute;
+  top: 1355px;
+  left: 825px;
+}
+.union2 {
+  background: url("/plasmic/project_web/images/union2.png") center center / cover no-repeat;
+  transform: translate(-0.4689999999999941px, 0px);
+  width: 120px;
+  height: 28px;
+  display: block;
+  position: absolute;
+  top: 1281px;
+  left: 314px;
+}
+.union11 {
+  background: url("/plasmic/project_web/images/union2.png") center center / cover no-repeat;
+  transform: translate(-0.4689999999999941px, 0px);
+  width: 120px;
+  height: 28px;
+  display: block;
+  position: absolute;
+  top: 1355px;
+  left: 314px;
+}
+.union4 {
+  background: url("/plasmic/project_web/images/union2.png") center center / cover no-repeat;
+  transform: translate(-0.4070000000000391px, 0px);
+  width: 120px;
+  height: 28px;
+  display: block;
+  position: absolute;
+  top: 1281px;
+  left: 655px;
+}
+.union12 {
+  background: url("/plasmic/project_web/images/union2.png") center center / cover no-repeat;
+  transform: translate(-0.4070000000000391px, 0px);
+  width: 120px;
+  height: 28px;
+  display: block;
+  position: absolute;
+  top: 1355px;
+  left: 655px;
+}
+.union6 {
+  background: url("/plasmic/project_web/images/union2.png") center center / cover no-repeat;
+  transform: translate(-0.34400000000005093px, 0px);
+  width: 120px;
+  height: 28px;
+  display: block;
+  position: absolute;
+  top: 1281px;
+  left: 996px;
+}
+.union13 {
+  background: url("/plasmic/project_web/images/union2.png") center center / cover no-repeat;
+  transform: translate(-0.34400000000005093px, 0px);
+  width: 120px;
+  height: 28px;
+  display: block;
+  position: absolute;
+  top: 1355px;
+  left: 996px;
+}
+.union7 {
+  background: url("/plasmic/project_web/images/union2.png") center center / cover no-repeat;
+  transform: translate(0.18699999999989814px, 0px);
+  width: 120px;
+  height: 28px;
+  display: block;
+  position: absolute;
+  top: 1281px;
+  left: 1166px;
+}
+.union14 {
+  background: url("/plasmic/project_web/images/union2.png") center center / cover no-repeat;
+  transform: translate(0.18699999999989814px, 0px);
+  width: 120px;
+  height: 28px;
+  display: block;
+  position: absolute;
+  top: 1355px;
+  left: 1166px;
+}
+.rectangle21 {
+  background: rgba(24, 22, 21, 1);
+  width: 1440px;
+  height: 292px;
+  display: block;
+  position: absolute;
+  top: 1481px;
+  left: 0px;
+}
+.freeBox___59Q58 {
+  display: block;
+  font-size: 16px;
+  font-family: "Roboto Condensed", sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.005em;
+  line-height: 1.07999;
+  color: rgba(190, 191, 191, 1);
+  position: absolute;
+  top: 1602px;
+  left: 141px;
+  width: 576px;
+  height: 108px;
+}
+.freeBox__xk4Jg {
+  display: block;
+  font-size: 16px;
+  font-family: "Roboto Condensed", sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.005em;
+  line-height: 1.07999;
+  color: rgba(190, 191, 191, 1);
+  position: absolute;
+  top: 1550px;
+  left: 1105px;
+}
+.freeBox__wmfeR {
+  display: block;
+  font-size: 16px;
+  font-family: "Roboto Condensed", sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.005em;
+  line-height: 1.07999;
+  color: rgba(190, 191, 191, 1);
+  position: absolute;
+  top: 1581px;
+  left: 1182px;
+}
+.freeBox__ijXRk {
+  display: block;
+  font-size: 16px;
+  font-family: "Roboto Condensed", sans-serif;
+  font-weight: 700;
+  letter-spacing: -0.005em;
+  line-height: 1.07999;
+  color: rgba(190, 191, 191, 1);
+  position: absolute;
+  top: 1549px;
+  left: 141px;
+}
+.group20 {
+  width: 19px;
+  height: 19px;
+  display: block;
+  position: absolute;
+  top: 1687px;
+  left: 1269px;
+}
+.rectangle18 {
+  background: rgba(233, 233, 233, 1);
+  width: 21px;
+  height: 19px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+.freeBox___4RK0M {
+  display: block;
+  font-size: 11px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.005em;
+  line-height: 1.18499;
+  color: rgba(190, 191, 191, 1);
+  position: absolute;
+  top: 202px;
+  left: 881px;
+}
+.map {
+  background: url("/plasmic/project_web/images/image30.png") -2.5193370165745854px -0.7630000000000001px /
+    1259.6685082872928px 763.0000000000001px no-repeat;
+  width: 912px;
+  height: 763px;
+  display: block;
+  position: absolute;
+  top: 340px;
+  left: 143px;
+}
+.placeholder11 {
+  background: url("/plasmic/project_web/images/placeholder11.png") center center / cover no-repeat;
+  width: 37px;
+  height: 37px;
+  display: block;
+  position: absolute;
+  top: 575px;
+  left: 457px;
+}
+.placeholder12 {
+  background: url("/plasmic/project_web/images/placeholder11.png") center center / cover no-repeat;
+  width: 37px;
+  height: 37px;
+  display: block;
+  position: absolute;
+  top: 512px;
+  left: 553px;
+}
+.placeholder13 {
+  background: url("/plasmic/project_web/images/placeholder11.png") center center / cover no-repeat;
+  width: 37px;
+  height: 37px;
+  display: block;
+  position: absolute;
+  top: 586px;
+  left: 562px;
+}
+.placeholder14 {
+  background: url("/plasmic/project_web/images/placeholder11.png") center center / cover no-repeat;
+  width: 37px;
+  height: 37px;
+  display: block;
+  position: absolute;
+  top: 549px;
+  left: 644px;
+}
+.карточканакарте {
+  width: 155px;
+  height: 249px;
+  display: block;
+  position: absolute;
+  top: 612px;
+  left: 363px;
+}
+.rectangle23 {
+  background: rgba(255, 255, 255, 1);
+  width: 155px;
+  height: 249px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+.freeBox__bOkFc {
+  display: block;
+  font-size: 10px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.005em;
+  line-height: 1.375;
+  color: rgba(0, 0, 0, 1);
+  position: absolute;
+  top: 11px;
+  left: 41px;
+  width: 103px;
+}
+.placeholder15 {
+  background: url("/plasmic/project_web/images/placeholder11.png") center center / cover no-repeat;
+  width: 24px;
+  height: 24px;
+  display: block;
+  position: absolute;
+  top: 11px;
+  left: 11px;
+}
+.svg__v0WzY {
+  position: absolute;
+  object-fit: cover;
+  width: 127px;
+  height: 2px;
+  color: #bfc0c0;
+  transform: skew(-0.057295760414500616deg, 0deg)
+    translate(-0.0020000000000095497px, 0.44500000000005px);
+  display: block;
+  transform-origin: top left;
+  top: 44px;
+  left: 11px;
+}
+.profile4 {
+  transform: translate(0px, 0.16800000000000637px);
+  width: 126px;
+  height: 161px;
+  display: block;
+  position: absolute;
+  top: 53px;
+  left: 11px;
+}
+.group26 {
+  width: 126px;
+  height: 126px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+.image29 {
+  background: url("/plasmic/project_web/images/image27.png") 0px -21.0328317373461px / 130.0728407908429px
+    170.9986320109439px no-repeat;
+  transform: translate(0px, -0.16800000000000637px);
+  width: 125px;
+  height: 125px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+.svg__hof9Q {
+  position: absolute;
+  object-fit: cover;
+  width: 70px;
+  height: 15px;
+  color: #bf211e;
+  transform: translate(0px, -0.06500000000005457px);
+  display: block;
+  top: 111px;
+  left: 0px;
+}
+.freeBox__of7Uo {
+  display: block;
+  font-size: 7.891px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.005em;
+  line-height: 1.29999;
+  color: rgba(255, 255, 255, 1);
+  position: absolute;
+  top: 113px;
+  left: 3px;
+  width: 48px;
+  height: 11px;
+  transform: translate(0.4230000000000018px, -0.010999999999967258px);
+}
+.freeBox__z513J {
+  display: block;
+  font-size: 12.794px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  letter-spacing: -0.005em;
+  line-height: 1.07999;
+  color: rgba(0, 0, 0, 1);
+  position: absolute;
+  top: 134px;
+  left: 0px;
+  width: 126px;
+  height: 28px;
+  transform: translate(0px, -0.46699999999998454px);
+}
+.freeBox__wEaHc {
+  display: block;
+  font-size: 10px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.005em;
+  line-height: 1.375;
+  color: rgba(0, 0, 0, 1);
+  position: absolute;
+  top: 224px;
+  left: 11px;
+}
+.svg__nLzsX {
+  position: absolute;
+  object-fit: cover;
+  width: 32px;
+  height: 8px;
+  color: #bf211e;
+  transform: skew(-0.057295760414500616deg, 0deg)
+    translate(-0.007999999999981355px, -0.5px);
+  display: block;
+  transform-origin: top left;
+  top: 844px;
+  left: 468px;
+}
+.image31 {
+  background: url("/plasmic/project_web/images/image31.png") center center / cover no-repeat;
+  width: 31px;
+  height: 108px;
+  display: block;
+  position: absolute;
+  top: 994px;
+  left: 1013px;
+}

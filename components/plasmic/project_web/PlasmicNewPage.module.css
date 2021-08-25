@@ -1,0 +1,1923 @@
+.root {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  width: 100%;
+  height: 100%;
+  justify-content: flex-start;
+  align-items: center;
+  align-content: unset;
+  min-width: 0;
+  min-height: 0;
+}
+.newsPageDesktop {
+  background: rgba(255, 255, 255, 1);
+  width: 1440px;
+  height: 3877px;
+  display: block;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.svg__tUeyd {
+  position: absolute;
+  object-fit: cover;
+  width: 589px;
+  height: 1px;
+  color: #bfc0c0;
+  transform: rotate(-90deg) translate(-0.5px, 0.009999999999990905px);
+  display: block;
+  transform-origin: top left;
+  top: 888px;
+  left: 1067px;
+}
+.photo202108171656131 {
+  background: url("/plasmic/project_web/images/photo202108171656132.jpeg") 0px 0px / 115px 90.742px no-repeat;
+  width: 115px;
+  height: 91px;
+  display: block;
+  position: absolute;
+  top: 27px;
+  left: 662px;
+}
+.svg__xiXQi {
+  position: absolute;
+  object-fit: cover;
+  width: 1155px;
+  height: 1px;
+  color: #bfc0c0;
+  transform: scale(1.000000499999875, 0.999999500000375)
+    rotate(-0.057295760416576934deg) skew(-0.05729570311883569deg, 0deg)
+    translate(-0.006000000000000227px, -0.5px);
+  display: block;
+  transform-origin: top left;
+  top: 142px;
+  left: 143px;
+}
+.svg__bNpcw {
+  position: absolute;
+  object-fit: cover;
+  width: 1155px;
+  height: 1px;
+  color: #bfc0c0;
+  transform: scale(1.000000499999875, 0.999999500000375)
+    rotate(-0.057295760416576934deg) skew(-0.05729570311883569deg, 0deg);
+  display: block;
+  transform-origin: top left;
+  top: 3219px;
+  left: 143px;
+}
+.svg__q7Vy1 {
+  position: absolute;
+  object-fit: cover;
+  width: 1155px;
+  height: 1px;
+  color: #bfc0c0;
+  transform: scale(1.000000499999875, 0.999999500000375)
+    rotate(-0.057295760416576934deg) skew(-0.05729570311883569deg, 0deg);
+  display: block;
+  transform-origin: top left;
+  top: 2474px;
+  left: 143px;
+}
+.svg__iaCp4 {
+  position: absolute;
+  object-fit: cover;
+  width: 872px;
+  height: 1px;
+  color: #bfc0c0;
+  transform: scale(1.000000499999875, 0.999999500000375)
+    rotate(-0.057295760416576934deg) skew(-0.05729570311883569deg, 0deg);
+  display: block;
+  transform-origin: top left;
+  top: 1066px;
+  left: 142px;
+}
+.svg__nPunc {
+  position: absolute;
+  object-fit: cover;
+  width: 872px;
+  height: 1px;
+  color: #bfc0c0;
+  transform: scale(1.000000499999875, 0.999999500000375)
+    rotate(-0.057295760416576934deg) skew(-0.05729570311883569deg, 0deg);
+  display: block;
+  transform-origin: top left;
+  top: 1314px;
+  left: 142px;
+}
+.svg__u1 {
+  position: absolute;
+  object-fit: cover;
+  width: 184px;
+  height: 1px;
+  color: #bf211e;
+  transform: scale(1.000000499999875, 0.999999500000375)
+    rotate(-0.057295760416576934deg) skew(-0.05729570311883569deg, 0deg);
+  display: block;
+  transform-origin: top left;
+  top: 306px;
+  left: 1113px;
+}
+.svg__gKlLg {
+  position: absolute;
+  object-fit: cover;
+  width: 158px;
+  height: 1px;
+  color: #bf211e;
+  transform: scale(1.000000499999875, 0.999999500000375)
+    rotate(-0.057295760416576934deg) skew(-0.05729570311883569deg, 0deg);
+  display: block;
+  transform-origin: top left;
+  top: 306px;
+  left: 143px;
+}
+.svg___8FxWs {
+  position: absolute;
+  object-fit: cover;
+  width: 198px;
+  height: 1px;
+  color: #bf211e;
+  transform: scale(0.999, 0.999);
+  display: block;
+  transform-origin: top left;
+  top: 3321px;
+  left: 143px;
+}
+.group8 {
+  width: 823px;
+  height: 19px;
+  display: block;
+  position: absolute;
+  top: 159px;
+  left: 474px;
+}
+.freeBox__nK0Ox {
+  display: block;
+  font-size: 14.725px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  letter-spacing: -0.005em;
+  line-height: 1.29999;
+  color: rgba(24, 22, 21, 1);
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+.freeBox___2LkMl {
+  display: block;
+  font-size: 14.725px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  letter-spacing: -0.005em;
+  line-height: 1.29999;
+  color: rgba(24, 22, 21, 1);
+  position: absolute;
+  top: 0px;
+  left: 170px;
+}
+.freeBox__i5B7Q {
+  display: block;
+  font-size: 14.725px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  letter-spacing: -0.005em;
+  line-height: 1.29999;
+  color: rgba(24, 22, 21, 1);
+  position: absolute;
+  top: 0px;
+  left: 362px;
+}
+.freeBox__vGsSr {
+  display: block;
+  font-size: 14.725px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  letter-spacing: -0.005em;
+  line-height: 1.29999;
+  color: rgba(24, 22, 21, 1);
+  position: absolute;
+  top: 0px;
+  left: 498px;
+}
+.freeBox__gVjll {
+  display: block;
+  font-size: 14.725px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  letter-spacing: -0.005em;
+  line-height: 1.29999;
+  color: rgba(24, 22, 21, 1);
+  position: absolute;
+  top: 0px;
+  left: 658px;
+}
+.group1 {
+  transform: scale(0.9990320315185094, 1.000224185485975)
+    rotate(89.54118474633073deg) skew(1.375663258162837deg, 0deg)
+    translate(-0.132000000000005px, 0px);
+  width: 30px;
+  height: 29px;
+  display: block;
+  transform-origin: top left;
+  position: absolute;
+  top: 152px;
+  left: 172px;
+}
+.verify1 {
+  background: url("/plasmic/project_web/images/verify2.png") center center / cover no-repeat;
+  width: 30px;
+  height: 29px;
+  display: block;
+  transform-origin: top left;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+.rectangle3 {
+  background: rgba(255, 255, 255, 1);
+  transform: translate(0.04635448773888129px, -0.3846291640981008px);
+  width: 15px;
+  height: 11px;
+  display: block;
+  transform-origin: top left;
+  position: absolute;
+  top: 6px;
+  left: 4px;
+}
+.rectangle24 {
+  background: rgba(190, 32, 29, 1);
+  width: 1440px;
+  height: 800px;
+  display: block;
+  position: absolute;
+  top: 1674px;
+  left: 0px;
+}
+.group10 {
+  width: 129px;
+  height: 19px;
+  display: block;
+  position: absolute;
+  top: 158px;
+  left: 216px;
+}
+.freeBox__ybaIr {
+  display: block;
+  font-size: 14.725px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  letter-spacing: -0.005em;
+  line-height: 1.29999;
+  color: rgba(24, 22, 21, 1);
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+.svg__lWNnF {
+  position: absolute;
+  object-fit: cover;
+  width: 12px;
+  height: 8px;
+  color: #191716;
+  transform: scale(1.000000499999875, 0.999999500000375)
+    rotate(-179.94270423958343deg) skew(0.05729570311883569deg, 0deg)
+    translate(-0.18200000000001637px, 0px);
+  display: block;
+  transform-origin: top left;
+  top: 16px;
+  left: 129px;
+  border-radius: 1.246px;
+}
+.freeBox__kkBiu {
+  display: block;
+  font-size: 23.048px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.005em;
+  line-height: 1.29999;
+  color: rgba(0, 0, 0, 1);
+  position: absolute;
+  top: 271px;
+  left: 143px;
+  width: 252px;
+  height: 30px;
+}
+.freeBox__phKXo {
+  display: block;
+  font-size: 23.048px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.005em;
+  line-height: 1.29999;
+  color: rgba(0, 0, 0, 1);
+  position: absolute;
+  top: 3286px;
+  left: 143px;
+}
+.freeBox__xmHqp {
+  display: block;
+  font-size: 23.048px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.005em;
+  line-height: 1.29999;
+  color: rgba(0, 0, 0, 1);
+  position: absolute;
+  top: 271px;
+  left: 1113px;
+}
+.profile {
+  width: 184px;
+  height: 235px;
+  display: block;
+  position: absolute;
+  top: 340px;
+  left: 1113px;
+}
+.group24 {
+  width: 184px;
+  height: 183px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+.image27 {
+  background: url("/plasmic/project_web/images/image27.png") 0px -26.486842105263158px / 183px 240.78947368421052px
+    no-repeat;
+  transform: translate(0px, -0.0009999999999763531px);
+  width: 183px;
+  height: 183px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+.svg__owfn {
+  position: absolute;
+  object-fit: cover;
+  width: 102px;
+  height: 21px;
+  color: #bf211e;
+  display: block;
+  top: 162px;
+  left: 0px;
+}
+.freeBox__s40Rs {
+  display: block;
+  font-size: 11.524px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.005em;
+  line-height: 1.29999;
+  color: rgba(255, 255, 255, 1);
+  position: absolute;
+  top: 165px;
+  left: 5px;
+  width: 69px;
+  height: 15px;
+}
+.freeBox__miF3 {
+  display: block;
+  font-size: 18.684px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  letter-spacing: -0.005em;
+  line-height: 1.07999;
+  color: rgba(0, 0, 0, 1);
+  position: absolute;
+  top: 195px;
+  left: 0px;
+  width: 184px;
+  height: 40px;
+}
+.profile2 {
+  width: 184px;
+  height: 235px;
+  display: block;
+  position: absolute;
+  top: 604px;
+  left: 1113px;
+}
+.group25 {
+  width: 184px;
+  height: 183px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+.image28 {
+  background: url("/plasmic/project_web/images/image28.png") -79.04456327985739px 0px / 327.9857397504456px
+    184px no-repeat;
+  width: 184px;
+  height: 184px;
+  display: block;
+  position: absolute;
+  top: -1px;
+  left: 0px;
+}
+.svg__tlflf {
+  position: absolute;
+  object-fit: cover;
+  width: 102px;
+  height: 21px;
+  color: #bf211e;
+  display: block;
+  top: 162px;
+  left: 0px;
+}
+.freeBox__rryEd {
+  display: block;
+  font-size: 11.524px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.005em;
+  line-height: 1.29999;
+  color: rgba(255, 255, 255, 1);
+  position: absolute;
+  top: 165px;
+  left: 5px;
+  width: 69px;
+  height: 15px;
+}
+.freeBox__kl4Oj {
+  display: block;
+  font-size: 18.684px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  letter-spacing: -0.005em;
+  line-height: 1.07999;
+  color: rgba(0, 0, 0, 1);
+  position: absolute;
+  top: 195px;
+  left: 0px;
+  width: 184px;
+  height: 40px;
+}
+.profile3 {
+  width: 184px;
+  height: 235px;
+  display: block;
+  position: absolute;
+  top: 868px;
+  left: 1113px;
+}
+.group23 {
+  width: 184px;
+  height: 183px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+.image26 {
+  background: url("/plasmic/project_web/images/image26.png") -48.95412844036696px -12.860599078341012px /
+    281.3455657492354px 210.82949308755758px no-repeat;
+  width: 184px;
+  height: 183px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+.svg___1OxHg {
+  position: absolute;
+  object-fit: cover;
+  width: 102px;
+  height: 21px;
+  color: #bf211e;
+  display: block;
+  top: 162px;
+  left: 0px;
+}
+.freeBox__sYblx {
+  display: block;
+  font-size: 11.524px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.005em;
+  line-height: 1.29999;
+  color: rgba(255, 255, 255, 1);
+  position: absolute;
+  top: 165px;
+  left: 5px;
+  width: 69px;
+  height: 15px;
+}
+.freeBox__napG {
+  display: block;
+  font-size: 18.684px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  letter-spacing: -0.005em;
+  line-height: 1.07999;
+  color: rgba(0, 0, 0, 1);
+  position: absolute;
+  top: 195px;
+  left: 0px;
+  width: 184px;
+  height: 40px;
+}
+.profile4 {
+  width: 184px;
+  height: 235px;
+  display: block;
+  position: absolute;
+  top: 1132px;
+  left: 1113px;
+}
+.group26 {
+  width: 184px;
+  height: 183px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+.image29 {
+  background: url("/plasmic/project_web/images/image27.png") 0px -26.48148148148148px / 183px 240.74074074074073px
+    no-repeat;
+  width: 183px;
+  height: 182px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+.svg__dzeeF {
+  position: absolute;
+  object-fit: cover;
+  width: 102px;
+  height: 21px;
+  color: #bf211e;
+  display: block;
+  top: 162px;
+  left: 0px;
+}
+.freeBox__cDkr {
+  display: block;
+  font-size: 11.524px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.005em;
+  line-height: 1.29999;
+  color: rgba(255, 255, 255, 1);
+  position: absolute;
+  top: 165px;
+  left: 5px;
+  width: 69px;
+  height: 15px;
+}
+.freeBox__kbfZj {
+  display: block;
+  font-size: 18.684px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  letter-spacing: -0.005em;
+  line-height: 1.07999;
+  color: rgba(0, 0, 0, 1);
+  position: absolute;
+  top: 195px;
+  left: 0px;
+  width: 184px;
+  height: 40px;
+}
+.profile5 {
+  width: 184px;
+  height: 235px;
+  display: block;
+  position: absolute;
+  top: 1396px;
+  left: 1113px;
+}
+.group27 {
+  width: 184px;
+  height: 183px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+.image30 {
+  background: url("/plasmic/project_web/images/image28.png") -79.04456327985739px 0px / 327.9857397504456px
+    184px no-repeat;
+  width: 184px;
+  height: 184px;
+  display: block;
+  position: absolute;
+  top: -1px;
+  left: 0px;
+}
+.svg__sl5DE {
+  position: absolute;
+  object-fit: cover;
+  width: 102px;
+  height: 21px;
+  color: #bf211e;
+  display: block;
+  top: 162px;
+  left: 0px;
+}
+.freeBox__pfyxw {
+  display: block;
+  font-size: 11.524px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.005em;
+  line-height: 1.29999;
+  color: rgba(255, 255, 255, 1);
+  position: absolute;
+  top: 165px;
+  left: 5px;
+  width: 69px;
+  height: 15px;
+}
+.freeBox__e1ALk {
+  display: block;
+  font-size: 18.684px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  letter-spacing: -0.005em;
+  line-height: 1.07999;
+  color: rgba(0, 0, 0, 1);
+  position: absolute;
+  top: 195px;
+  left: 0px;
+  width: 184px;
+  height: 40px;
+}
+.freeBox__pbygE {
+  display: block;
+  font-size: 11px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.005em;
+  line-height: 1.18499;
+  color: rgba(190, 191, 191, 1);
+  position: absolute;
+  top: 202px;
+  left: 143px;
+}
+.union1 {
+  background: url("/plasmic/project_web/images/union2.png") center center / cover no-repeat;
+  width: 120px;
+  height: 28px;
+  display: block;
+  position: absolute;
+  top: 3385px;
+  left: 143px;
+}
+.union8 {
+  background: url("/plasmic/project_web/images/union2.png") center center / cover no-repeat;
+  width: 120px;
+  height: 28px;
+  display: block;
+  position: absolute;
+  top: 3459px;
+  left: 143px;
+}
+.union3 {
+  background: url("/plasmic/project_web/images/union2.png") center center / cover no-repeat;
+  transform: translate(0.06200000000001182px, 0px);
+  width: 120px;
+  height: 28px;
+  display: block;
+  position: absolute;
+  top: 3385px;
+  left: 484px;
+}
+.union9 {
+  background: url("/plasmic/project_web/images/union2.png") center center / cover no-repeat;
+  transform: translate(0.06200000000001182px, 0px);
+  width: 120px;
+  height: 28px;
+  display: block;
+  position: absolute;
+  top: 3459px;
+  left: 484px;
+}
+.union5 {
+  background: url("/plasmic/project_web/images/union2.png") center center / cover no-repeat;
+  transform: translate(0.125px, 0px);
+  width: 120px;
+  height: 28px;
+  display: block;
+  position: absolute;
+  top: 3385px;
+  left: 825px;
+}
+.union10 {
+  background: url("/plasmic/project_web/images/union2.png") center center / cover no-repeat;
+  transform: translate(0.125px, 0px);
+  width: 120px;
+  height: 28px;
+  display: block;
+  position: absolute;
+  top: 3459px;
+  left: 825px;
+}
+.union2 {
+  background: url("/plasmic/project_web/images/union2.png") center center / cover no-repeat;
+  transform: translate(-0.4689999999999941px, 0px);
+  width: 120px;
+  height: 28px;
+  display: block;
+  position: absolute;
+  top: 3385px;
+  left: 314px;
+}
+.union11 {
+  background: url("/plasmic/project_web/images/union2.png") center center / cover no-repeat;
+  transform: translate(-0.4689999999999941px, 0px);
+  width: 120px;
+  height: 28px;
+  display: block;
+  position: absolute;
+  top: 3459px;
+  left: 314px;
+}
+.union4 {
+  background: url("/plasmic/project_web/images/union2.png") center center / cover no-repeat;
+  transform: translate(-0.4070000000000391px, 0px);
+  width: 120px;
+  height: 28px;
+  display: block;
+  position: absolute;
+  top: 3385px;
+  left: 655px;
+}
+.union12 {
+  background: url("/plasmic/project_web/images/union2.png") center center / cover no-repeat;
+  transform: translate(-0.4070000000000391px, 0px);
+  width: 120px;
+  height: 28px;
+  display: block;
+  position: absolute;
+  top: 3459px;
+  left: 655px;
+}
+.union6 {
+  background: url("/plasmic/project_web/images/union2.png") center center / cover no-repeat;
+  transform: translate(-0.34400000000005093px, 0px);
+  width: 120px;
+  height: 28px;
+  display: block;
+  position: absolute;
+  top: 3385px;
+  left: 996px;
+}
+.union13 {
+  background: url("/plasmic/project_web/images/union2.png") center center / cover no-repeat;
+  transform: translate(-0.34400000000005093px, 0px);
+  width: 120px;
+  height: 28px;
+  display: block;
+  position: absolute;
+  top: 3459px;
+  left: 996px;
+}
+.union7 {
+  background: url("/plasmic/project_web/images/union2.png") center center / cover no-repeat;
+  transform: translate(0.18699999999989814px, 0px);
+  width: 120px;
+  height: 28px;
+  display: block;
+  position: absolute;
+  top: 3385px;
+  left: 1166px;
+}
+.union14 {
+  background: url("/plasmic/project_web/images/union2.png") center center / cover no-repeat;
+  transform: translate(0.18699999999989814px, 0px);
+  width: 120px;
+  height: 28px;
+  display: block;
+  position: absolute;
+  top: 3459px;
+  left: 1166px;
+}
+.rectangle21 {
+  background: rgba(24, 22, 21, 1);
+  width: 1440px;
+  height: 292px;
+  display: block;
+  position: absolute;
+  top: 3585px;
+  left: 0px;
+}
+.freeBox__dvMLp {
+  display: block;
+  font-size: 16px;
+  font-family: "Roboto Condensed", sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.005em;
+  line-height: 1.07999;
+  color: rgba(190, 191, 191, 1);
+  position: absolute;
+  top: 3706px;
+  left: 141px;
+  width: 576px;
+  height: 108px;
+}
+.freeBox__gwztj {
+  display: block;
+  font-size: 16px;
+  font-family: "Roboto Condensed", sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.005em;
+  line-height: 1.07999;
+  color: rgba(190, 191, 191, 1);
+  position: absolute;
+  top: 3654px;
+  left: 1105px;
+}
+.freeBox__nrrcr {
+  display: block;
+  font-size: 16px;
+  font-family: "Roboto Condensed", sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.005em;
+  line-height: 1.07999;
+  color: rgba(190, 191, 191, 1);
+  position: absolute;
+  top: 3685px;
+  left: 1182px;
+}
+.freeBox__gcfvn {
+  display: block;
+  font-size: 16px;
+  font-family: "Roboto Condensed", sans-serif;
+  font-weight: 700;
+  letter-spacing: -0.005em;
+  line-height: 1.07999;
+  color: rgba(190, 191, 191, 1);
+  position: absolute;
+  top: 3653px;
+  left: 141px;
+}
+.group20 {
+  width: 19px;
+  height: 19px;
+  display: block;
+  position: absolute;
+  top: 3791px;
+  left: 1269px;
+}
+.rectangle18 {
+  background: rgba(233, 233, 233, 1);
+  width: 21px;
+  height: 19px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+.freeBox__jdG4O {
+  display: block;
+  font-size: 11px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.005em;
+  line-height: 1.18499;
+  color: rgba(190, 191, 191, 1);
+  position: absolute;
+  top: 202px;
+  left: 881px;
+}
+.group28 {
+  width: 287px;
+  height: 383px;
+  display: block;
+  position: absolute;
+  top: 340px;
+  left: 142px;
+}
+.freeBox__iQrev {
+  display: block;
+  font-size: 20px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.005em;
+  line-height: 100%;
+  color: rgba(0, 0, 0, 1);
+  position: absolute;
+  top: 231px;
+  left: 0px;
+  width: 287px;
+  height: 51px;
+}
+.freeBox__x9Ip5 {
+  display: block;
+  font-size: 16px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  letter-spacing: -0.005em;
+  line-height: 100%;
+  color: rgba(0, 0, 0, 1);
+  position: absolute;
+  top: 288px;
+  left: 1px;
+  width: 282px;
+}
+.group29 {
+  width: 282px;
+  height: 214px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 1px;
+}
+.image31 {
+  background: url("/plasmic/project_web/images/image29.png") 0px -20.32717678100264px / 282.28228228228227px
+    282.32189973614777px no-repeat;
+  transform: translate(0px, -0.0009999999999763531px);
+  width: 282px;
+  height: 214px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+.group30 {
+  width: 287px;
+  height: 383px;
+  display: block;
+  position: absolute;
+  top: 340px;
+  left: 457px;
+}
+.freeBox__reqKu {
+  display: block;
+  font-size: 20px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.005em;
+  line-height: 100%;
+  color: rgba(0, 0, 0, 1);
+  position: absolute;
+  top: 231px;
+  left: 0px;
+  width: 287px;
+  height: 51px;
+}
+.freeBox__doas {
+  display: block;
+  font-size: 16px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  letter-spacing: -0.005em;
+  line-height: 100%;
+  color: rgba(0, 0, 0, 1);
+  position: absolute;
+  top: 288px;
+  left: 1px;
+  width: 282px;
+}
+.group31 {
+  width: 282px;
+  height: 214px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 1px;
+}
+.image32 {
+  background: url("/plasmic/project_web/images/image29.png") 0.28228228228228225px -20.32717678100264px /
+    282.28228228228227px 282.32189973614777px no-repeat;
+  transform: translate(-0.0009999999999763531px, 0px);
+  width: 282px;
+  height: 214px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+.group32 {
+  width: 287px;
+  height: 383px;
+  display: block;
+  position: absolute;
+  top: 340px;
+  left: 772px;
+}
+.freeBox__cxtO3 {
+  display: block;
+  font-size: 20px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.005em;
+  line-height: 100%;
+  color: rgba(0, 0, 0, 1);
+  position: absolute;
+  top: 231px;
+  left: 0px;
+  width: 287px;
+  height: 51px;
+}
+.freeBox__ufUb4 {
+  display: block;
+  font-size: 16px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  letter-spacing: -0.005em;
+  line-height: 100%;
+  color: rgba(0, 0, 0, 1);
+  position: absolute;
+  top: 288px;
+  left: 1px;
+  width: 282px;
+}
+.group33 {
+  width: 282px;
+  height: 214px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 1px;
+}
+.image33 {
+  background: url("/plasmic/project_web/images/image29.png") 0px -20.32717678100264px / 282.28228228228227px
+    282.32189973614777px no-repeat;
+  width: 282px;
+  height: 214px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+.group34 {
+  width: 869px;
+  height: 249px;
+  display: block;
+  position: absolute;
+  top: 790px;
+  left: 142px;
+}
+.freeBox___9JJy1 {
+  display: block;
+  font-size: 35px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.005em;
+  line-height: 100%;
+  color: rgba(0, 0, 0, 1);
+  position: absolute;
+  top: 0px;
+  left: 265px;
+  width: 589px;
+  height: 77px;
+}
+.freeBox__kzufS {
+  display: block;
+  font-size: 17px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  letter-spacing: -0.005em;
+  line-height: 100%;
+  color: rgba(0, 0, 0, 1);
+  position: absolute;
+  top: 86px;
+  left: 265px;
+  width: 604px;
+}
+.freeBox__dhQ3Z {
+  display: block;
+  font-size: 14.542px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  letter-spacing: -0.005em;
+  line-height: 100%;
+  color: rgba(190, 191, 191, 1);
+  position: absolute;
+  top: 231px;
+  left: 265px;
+  width: 71px;
+  height: 18px;
+}
+.group35 {
+  width: 227px;
+  height: 172px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+.image34 {
+  background: url("/plasmic/project_web/images/image29.png") center center / cover no-repeat;
+  width: 222px;
+  height: 222px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 2px;
+}
+.group36 {
+  width: 869px;
+  height: 190px;
+  display: block;
+  position: absolute;
+  top: 1095px;
+  left: 142px;
+}
+.freeBox__vjq0N {
+  display: block;
+  font-size: 35px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.005em;
+  line-height: 100%;
+  color: rgba(0, 0, 0, 1);
+  position: absolute;
+  top: 0px;
+  left: 265px;
+  width: 589px;
+  height: 77px;
+}
+.freeBox__nYGq {
+  display: block;
+  font-size: 17px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  letter-spacing: -0.005em;
+  line-height: 100%;
+  color: rgba(0, 0, 0, 1);
+  position: absolute;
+  top: 86px;
+  left: 265px;
+  width: 604px;
+}
+.freeBox__i7Cf {
+  display: block;
+  font-size: 14.542px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  letter-spacing: -0.005em;
+  line-height: 100%;
+  color: rgba(190, 191, 191, 1);
+  position: absolute;
+  top: 172px;
+  left: 265px;
+  width: 71px;
+  height: 18px;
+}
+.group37 {
+  width: 227px;
+  height: 172px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+.image35 {
+  background: url("/plasmic/project_web/images/image29.png") center center / cover no-repeat;
+  width: 222px;
+  height: 222px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 2px;
+}
+.group38 {
+  width: 869px;
+  height: 249px;
+  display: block;
+  position: absolute;
+  top: 1375px;
+  left: 142px;
+}
+.freeBox__lex1T {
+  display: block;
+  font-size: 35px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.005em;
+  line-height: 100%;
+  color: rgba(0, 0, 0, 1);
+  position: absolute;
+  top: 0px;
+  left: 265px;
+  width: 589px;
+  height: 77px;
+}
+.freeBox___4Zs1S {
+  display: block;
+  font-size: 17px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  letter-spacing: -0.005em;
+  line-height: 100%;
+  color: rgba(0, 0, 0, 1);
+  position: absolute;
+  top: 86px;
+  left: 265px;
+  width: 604px;
+}
+.freeBox__wRiEi {
+  display: block;
+  font-size: 14.542px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  letter-spacing: -0.005em;
+  line-height: 100%;
+  color: rgba(190, 191, 191, 1);
+  position: absolute;
+  top: 231px;
+  left: 265px;
+  width: 71px;
+  height: 18px;
+}
+.group39 {
+  width: 227px;
+  height: 172px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+.image36 {
+  background: url("/plasmic/project_web/images/image29.png") center center / cover no-repeat;
+  width: 222px;
+  height: 222px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 2px;
+}
+.svg__feWu {
+  position: absolute;
+  object-fit: cover;
+  width: 70px;
+  height: 1px;
+  color: #bf211e;
+  transform: scale(1.000000499999875, 0.999999500000375)
+    rotate(-0.057295760416576934deg) skew(-0.05729570311883569deg, 0deg);
+  display: block;
+  transform-origin: top left;
+  top: 182px;
+  left: 972px;
+}
+.group40 {
+  width: 274px;
+  height: 30px;
+  display: block;
+  position: absolute;
+  top: 3123px;
+  left: 143px;
+}
+.freeBox___6RgTt {
+  display: block;
+  font-size: 23.048px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.005em;
+  line-height: 1.29999;
+  color: rgba(0, 0, 0, 1);
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+.svg__amSuh {
+  position: absolute;
+  object-fit: cover;
+  width: 66px;
+  height: 16px;
+  color: #bf211e;
+  transform: skew(-0.057295760414500616deg, 0deg)
+    translate(-0.002999999999985903px, -0.47499999999990905px);
+  display: block;
+  transform-origin: top left;
+  top: 19px;
+  left: 209px;
+}
+.group41 {
+  width: 367px;
+  height: 332px;
+  display: block;
+  position: absolute;
+  top: 1738px;
+  left: 143px;
+}
+.group42 {
+  width: 367px;
+  height: 205px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+.image37 {
+  background: url("/plasmic/project_web/images/image29.png") -6.387983706720978px -42.12844036697248px /
+    375.76374745417513px 376.14678899082566px no-repeat;
+  width: 369px;
+  height: 205px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: -1px;
+}
+.freeBox___54Ar0 {
+  display: block;
+  font-size: 27px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.005em;
+  line-height: 100%;
+  color: rgba(255, 255, 255, 1);
+  position: absolute;
+  top: 218px;
+  left: 0px;
+  width: 367px;
+  height: 77px;
+}
+.freeBox__uOohj {
+  display: block;
+  font-size: 14.542px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  letter-spacing: -0.005em;
+  line-height: 100%;
+  color: rgba(255, 255, 255, 1);
+  position: absolute;
+  top: 314px;
+  left: 0px;
+  width: 71px;
+  height: 18px;
+}
+.group43 {
+  width: 367px;
+  height: 332px;
+  display: block;
+  position: absolute;
+  top: 2108px;
+  left: 145px;
+}
+.group44 {
+  width: 367px;
+  height: 205px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+.image38 {
+  background: url("/plasmic/project_web/images/image29.png") -5.640243902439024px -42.12844036697248px /
+    376.0162601626016px 376.14678899082566px no-repeat;
+  width: 370px;
+  height: 205px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: -2px;
+}
+.freeBox__eyVJy {
+  display: block;
+  font-size: 27px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.005em;
+  line-height: 100%;
+  color: rgba(255, 255, 255, 1);
+  position: absolute;
+  top: 218px;
+  left: 0px;
+  width: 367px;
+  height: 77px;
+}
+.freeBox__i7Omj {
+  display: block;
+  font-size: 14.542px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  letter-spacing: -0.005em;
+  line-height: 100%;
+  color: rgba(255, 255, 255, 1);
+  position: absolute;
+  top: 314px;
+  left: 0px;
+  width: 71px;
+  height: 18px;
+}
+.group45 {
+  width: 547px;
+  height: 245px;
+  display: block;
+  position: absolute;
+  top: 2534px;
+  left: 145px;
+}
+.group46 {
+  width: 282px;
+  height: 244px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+.image39 {
+  background: url("/plasmic/project_web/images/image29.png") -5.781409601634321px -22.260663507109005px /
+    289.070480081716px 289.09952606635073px no-repeat;
+  width: 283px;
+  height: 244px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+.freeBox__yNmF3 {
+  display: block;
+  font-size: 20px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.005em;
+  line-height: 100%;
+  color: rgba(0, 0, 0, 1);
+  position: absolute;
+  top: 0px;
+  left: 298px;
+  width: 249px;
+  height: 77px;
+}
+.freeBox__pqnDw {
+  display: block;
+  font-size: 14.542px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  letter-spacing: -0.005em;
+  line-height: 100%;
+  color: rgba(190, 191, 191, 1);
+  position: absolute;
+  top: 227px;
+  left: 298px;
+  width: 71px;
+  height: 18px;
+}
+.freeBox__aYUk {
+  display: block;
+  font-size: 17px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  letter-spacing: -0.005em;
+  line-height: 100%;
+  color: rgba(0, 0, 0, 1);
+  position: absolute;
+  top: 106px;
+  left: 298px;
+  width: 249px;
+}
+.group47 {
+  width: 547px;
+  height: 245px;
+  display: block;
+  position: absolute;
+  top: 2534px;
+  left: 744px;
+}
+.group48 {
+  width: 282px;
+  height: 244px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+.image40 {
+  background: url("/plasmic/project_web/images/image29.png") -5.781409601634321px -22.260663507109005px /
+    289.070480081716px 289.09952606635073px no-repeat;
+  width: 283px;
+  height: 244px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+.freeBox__rtbtg {
+  display: block;
+  font-size: 20px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.005em;
+  line-height: 100%;
+  color: rgba(0, 0, 0, 1);
+  position: absolute;
+  top: 0px;
+  left: 298px;
+  width: 249px;
+  height: 77px;
+}
+.freeBox__ov6Yj {
+  display: block;
+  font-size: 14.542px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  letter-spacing: -0.005em;
+  line-height: 100%;
+  color: rgba(190, 191, 191, 1);
+  position: absolute;
+  top: 227px;
+  left: 298px;
+  width: 71px;
+  height: 18px;
+}
+.freeBox__gfPok {
+  display: block;
+  font-size: 17px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  letter-spacing: -0.005em;
+  line-height: 100%;
+  color: rgba(0, 0, 0, 1);
+  position: absolute;
+  top: 106px;
+  left: 298px;
+  width: 249px;
+}
+.group49 {
+  width: 547px;
+  height: 245px;
+  display: block;
+  position: absolute;
+  top: 2813px;
+  left: 145px;
+}
+.group50 {
+  width: 282px;
+  height: 244px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+.image41 {
+  background: url("/plasmic/project_web/images/image29.png") -5.781409601634321px -22.260663507109005px /
+    289.070480081716px 289.09952606635073px no-repeat;
+  width: 283px;
+  height: 244px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+.freeBox__bv1Sg {
+  display: block;
+  font-size: 20px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.005em;
+  line-height: 100%;
+  color: rgba(0, 0, 0, 1);
+  position: absolute;
+  top: 0px;
+  left: 298px;
+  width: 249px;
+  height: 77px;
+}
+.freeBox__ir3X6 {
+  display: block;
+  font-size: 14.542px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  letter-spacing: -0.005em;
+  line-height: 100%;
+  color: rgba(190, 191, 191, 1);
+  position: absolute;
+  top: 227px;
+  left: 298px;
+  width: 71px;
+  height: 18px;
+}
+.freeBox__mw3Yi {
+  display: block;
+  font-size: 17px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  letter-spacing: -0.005em;
+  line-height: 100%;
+  color: rgba(0, 0, 0, 1);
+  position: absolute;
+  top: 106px;
+  left: 298px;
+  width: 249px;
+}
+.group51 {
+  width: 547px;
+  height: 245px;
+  display: block;
+  position: absolute;
+  top: 2813px;
+  left: 744px;
+}
+.group52 {
+  width: 282px;
+  height: 244px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+.image42 {
+  background: url("/plasmic/project_web/images/image29.png") -5.781409601634321px -22.260663507109005px /
+    289.070480081716px 289.09952606635073px no-repeat;
+  width: 283px;
+  height: 244px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+.freeBox__u4I0I {
+  display: block;
+  font-size: 20px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.005em;
+  line-height: 100%;
+  color: rgba(0, 0, 0, 1);
+  position: absolute;
+  top: 0px;
+  left: 298px;
+  width: 249px;
+  height: 77px;
+}
+.freeBox__afX2E {
+  display: block;
+  font-size: 14.542px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  letter-spacing: -0.005em;
+  line-height: 100%;
+  color: rgba(190, 191, 191, 1);
+  position: absolute;
+  top: 227px;
+  left: 298px;
+  width: 71px;
+  height: 18px;
+}
+.freeBox__yz9Hp {
+  display: block;
+  font-size: 17px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  letter-spacing: -0.005em;
+  line-height: 100%;
+  color: rgba(0, 0, 0, 1);
+  position: absolute;
+  top: 106px;
+  left: 298px;
+  width: 249px;
+}
+.group53 {
+  width: 367px;
+  height: 332px;
+  display: block;
+  position: absolute;
+  top: 1738px;
+  left: 536px;
+}
+.group54 {
+  width: 367px;
+  height: 205px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+.image43 {
+  background: url("/plasmic/project_web/images/image29.png") -7.517875383043922px -42.157303370786515px /
+    375.8937691521961px 376.40449438202245px no-repeat;
+  width: 368px;
+  height: 201px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+.freeBox__kmhMv {
+  display: block;
+  font-size: 27px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.005em;
+  line-height: 100%;
+  color: rgba(255, 255, 255, 1);
+  position: absolute;
+  top: 218px;
+  left: 0px;
+  width: 367px;
+  height: 77px;
+}
+.freeBox__wayNi {
+  display: block;
+  font-size: 14.542px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  letter-spacing: -0.005em;
+  line-height: 100%;
+  color: rgba(255, 255, 255, 1);
+  position: absolute;
+  top: 314px;
+  left: 0px;
+  width: 71px;
+  height: 18px;
+}
+.group55 {
+  width: 367px;
+  height: 332px;
+  display: block;
+  position: absolute;
+  top: 2108px;
+  left: 538px;
+}
+.group56 {
+  width: 367px;
+  height: 205px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+.image44 {
+  background: url("/plasmic/project_web/images/image29.png") -7.517875383043922px -42.12844036697248px /
+    375.8937691521961px 376.14678899082566px no-repeat;
+  width: 368px;
+  height: 205px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+.freeBox__hZdNt {
+  display: block;
+  font-size: 27px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.005em;
+  line-height: 100%;
+  color: rgba(255, 255, 255, 1);
+  position: absolute;
+  top: 218px;
+  left: 0px;
+  width: 367px;
+  height: 77px;
+}
+.freeBox__qBzfv {
+  display: block;
+  font-size: 14.542px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  letter-spacing: -0.005em;
+  line-height: 100%;
+  color: rgba(255, 255, 255, 1);
+  position: absolute;
+  top: 314px;
+  left: 0px;
+  width: 71px;
+  height: 18px;
+}
+.group57 {
+  width: 367px;
+  height: 332px;
+  display: block;
+  position: absolute;
+  top: 1738px;
+  left: 929px;
+}
+.group58 {
+  width: 367px;
+  height: 205px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+.image45 {
+  background: url("/plasmic/project_web/images/image29.png") -7.517875383043922px -42.157303370786515px /
+    375.8937691521961px 376.40449438202245px no-repeat;
+  width: 368px;
+  height: 201px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+.freeBox__tNoUa {
+  display: block;
+  font-size: 27px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.005em;
+  line-height: 100%;
+  color: rgba(255, 255, 255, 1);
+  position: absolute;
+  top: 218px;
+  left: 0px;
+  width: 367px;
+  height: 77px;
+}
+.freeBox__nAai {
+  display: block;
+  font-size: 14.542px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  letter-spacing: -0.005em;
+  line-height: 100%;
+  color: rgba(255, 255, 255, 1);
+  position: absolute;
+  top: 314px;
+  left: 0px;
+  width: 71px;
+  height: 18px;
+}
+.group59 {
+  width: 367px;
+  height: 332px;
+  display: block;
+  position: absolute;
+  top: 2108px;
+  left: 931px;
+}
+.group60 {
+  width: 367px;
+  height: 205px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+.image46 {
+  background: url("/plasmic/project_web/images/image29.png") -15.275px -42.12844036697248px /
+    391.6666666666667px 376.14678899082566px no-repeat;
+  width: 376px;
+  height: 205px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: -8px;
+}
+.freeBox__uAxDp {
+  display: block;
+  font-size: 27px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.005em;
+  line-height: 100%;
+  color: rgba(255, 255, 255, 1);
+  position: absolute;
+  top: 218px;
+  left: 0px;
+  width: 367px;
+  height: 77px;
+}
+.freeBox__pv9TK {
+  display: block;
+  font-size: 14.542px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  letter-spacing: -0.005em;
+  line-height: 100%;
+  color: rgba(255, 255, 255, 1);
+  position: absolute;
+  top: 314px;
+  left: 0px;
+  width: 71px;
+  height: 18px;
+}
+.svg___6TVsl {
+  position: absolute;
+  object-fit: cover;
+  width: 548px;
+  height: 1px;
+  color: #bfc0c0;
+  transform: scale(0.9990005005003751, 0.9990015015008745)
+    rotate(0.05735311348834077deg) skew(-0.0573530560218398deg, 0deg);
+  display: block;
+  transform-origin: top left;
+  top: 2795px;
+  left: 144px;
+}
+.svg__xZgbz {
+  position: absolute;
+  object-fit: cover;
+  width: 548px;
+  height: 1px;
+  color: #bfc0c0;
+  transform: scale(0.9990005005003751, 0.9990015015008745)
+    rotate(0.05735311348834077deg) skew(-0.0573530560218398deg, 0deg);
+  display: block;
+  transform-origin: top left;
+  top: 2796px;
+  left: 744px;
+}
+.svg__mMsFy {
+  position: absolute;
+  object-fit: cover;
+  width: 1155px;
+  height: 1px;
+  color: #bfc0c0;
+  transform: scale(1.000000499999875, 0.999999500000375)
+    rotate(-0.057295760416576934deg) skew(-0.05729570311883569deg, 0deg);
+  display: block;
+  transform-origin: top left;
+  top: 193px;
+  left: 144px;
+}

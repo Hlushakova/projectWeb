@@ -1,0 +1,1259 @@
+.root {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  width: 100%;
+  height: 100%;
+  min-width: 0;
+  min-height: 0;
+}
+.mainPageDesktop {
+  background: rgba(255, 255, 255, 1);
+  width: 1464px;
+  height: 2378px;
+  display: block;
+  overflow: hidden;
+  align-self: center;
+  flex-shrink: 0;
+}
+.logo {
+  background: url("/plasmic/project_web/images/photo202108171656132.jpeg") 0px 0px / 115px 90.742px no-repeat;
+  width: 115px;
+  height: 91px;
+  display: block;
+  position: absolute;
+  top: 27px;
+  left: 46.04%;
+  right: auto;
+}
+.devidingLineOne {
+  position: absolute;
+  object-fit: cover;
+  width: 1155px;
+  height: 1px;
+  color: #bfc0c0;
+  transform: scale(1.000000499999875, 0.999999500000375)
+    rotate(-0.057295760416576934deg) skew(-0.05729570311883569deg, 0deg)
+    translate(-0.006000000000000227px, -0.5px);
+  display: block;
+  transform-origin: top left;
+  top: 142px;
+  left: 143px;
+  right: auto;
+}
+.svg__vLakP {
+  position: absolute;
+  object-fit: cover;
+  width: 1155px;
+  height: 1px;
+  color: #bfc0c0;
+  transform: scale(1.000000499999875, 0.999999500000375)
+    rotate(-0.057295760416576934deg) skew(-0.05729570311883569deg, 0deg);
+  display: block;
+  transform-origin: top left;
+  top: 1720px;
+  left: 143px;
+}
+.devidingLineTwo {
+  position: absolute;
+  object-fit: cover;
+  width: 1155px;
+  height: 1px;
+  color: #bfc0c0;
+  transform: scale(1.000000499999875, 0.999999500000375)
+    rotate(-0.057295760416576934deg) skew(-0.05729570311883569deg, 0deg);
+  display: block;
+  transform-origin: top left;
+  top: 193px;
+  left: 143px;
+}
+.svg__l65Wj {
+  position: absolute;
+  object-fit: cover;
+  width: 872px;
+  height: 1px;
+  color: #bfc0c0;
+  transform: scale(1.000000499999875, 0.999999500000375)
+    rotate(-0.057295760416576934deg) skew(-0.05729570311883569deg, 0deg);
+  display: block;
+  transform-origin: top left;
+  top: 1066px;
+  left: 142px;
+}
+.svg__q3Khb {
+  position: absolute;
+  object-fit: cover;
+  width: 872px;
+  height: 1px;
+  color: #bfc0c0;
+  transform: scale(1.000000499999875, 0.999999500000375)
+    rotate(-0.057295760416576934deg) skew(-0.05729570311883569deg, 0deg);
+  display: block;
+  transform-origin: top left;
+  top: 1314px;
+  left: 142px;
+}
+.svg__lLmHl {
+  position: absolute;
+  object-fit: cover;
+  width: 184px;
+  height: 1px;
+  color: #bf211e;
+  transform: scale(1.000000499999875, 0.999999500000375)
+    rotate(-0.057295760416576934deg) skew(-0.05729570311883569deg, 0deg);
+  display: block;
+  transform-origin: top left;
+  top: 306px;
+  left: 1113px;
+}
+.headerUnderlineLastNews {
+  position: absolute;
+  object-fit: cover;
+  width: 258px;
+  height: 1px;
+  color: #bf211e;
+  transform: scale(1.000000499999875, 0.999999500000375)
+    rotate(-0.057295760416576934deg) skew(-0.05729570311883569deg, 0deg);
+  display: block;
+  transform-origin: top left;
+  top: 306px;
+  left: 143px;
+}
+.underlinePartners {
+  position: absolute;
+  object-fit: cover;
+  width: 198px;
+  height: 1px;
+  color: #bf211e;
+  transform: scale(0.999, 0.999);
+  display: block;
+  transform-origin: top left;
+  top: 1822px;
+  left: 143px;
+}
+.menuItems {
+  width: 823px;
+  height: 19px;
+  display: block;
+  position: absolute;
+  top: 159px;
+  left: 474px;
+}
+.aboutMenuItem {
+  display: block;
+  font-size: 14.725px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  letter-spacing: -0.005em;
+  line-height: 1.29999;
+  color: rgba(24, 22, 21, 1);
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+.donateMenuItem {
+  display: block;
+  font-size: 14.725px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  letter-spacing: -0.005em;
+  line-height: 1.29999;
+  color: rgba(24, 22, 21, 1);
+  position: absolute;
+  top: 0px;
+  left: 170px;
+}
+.peopleMenuItem {
+  display: block;
+  font-size: 14.725px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  letter-spacing: -0.005em;
+  line-height: 1.29999;
+  color: rgba(24, 22, 21, 1);
+  position: absolute;
+  top: 0px;
+  left: 362px;
+}
+.newsMenuItem {
+  display: block;
+  font-size: 14.725px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  letter-spacing: -0.005em;
+  line-height: 1.29999;
+  color: rgba(24, 22, 21, 1);
+  position: absolute;
+  top: 0px;
+  left: 498px;
+}
+.mapMenuItem {
+  display: block;
+  font-size: 14.725px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  letter-spacing: -0.005em;
+  line-height: 1.29999;
+  color: rgba(24, 22, 21, 1);
+  position: absolute;
+  top: 0px;
+  left: 658px;
+}
+.searchIcon {
+  transform: scale(0.9990320315185094, 1.000224185485975)
+    rotate(89.54118474633073deg) skew(1.375663258162837deg, 0deg)
+    translate(-0.132000000000005px, 0px);
+  width: 30px;
+  height: 29px;
+  display: block;
+  transform-origin: top left;
+  position: absolute;
+  top: 152px;
+  left: 172px;
+}
+.finder {
+  background: url("/plasmic/project_web/images/verify2.png") center center / cover no-repeat;
+  width: 30px;
+  height: 29px;
+  display: block;
+  transform-origin: top left;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+.rectangle3 {
+  background: rgba(255, 255, 255, 1);
+  transform: translate(0.04635448773888129px, -0.3846291640981008px);
+  width: 15px;
+  height: 11px;
+  display: block;
+  transform-origin: top left;
+  position: absolute;
+  top: 6px;
+  left: 4px;
+}
+.group10 {
+  width: 129px;
+  height: 19px;
+  display: block;
+  position: absolute;
+  top: 158px;
+  left: 216px;
+}
+.chooseRegionButton {
+  display: block;
+  font-size: 14.725px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  letter-spacing: -0.005em;
+  line-height: 1.29999;
+  color: rgba(24, 22, 21, 1);
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+.chooseRegionIcon {
+  position: absolute;
+  object-fit: cover;
+  width: 12px;
+  height: 8px;
+  color: #191716;
+  transform: scale(1.000000499999875, 0.999999500000375)
+    rotate(-179.94270423958343deg) skew(0.05729570311883569deg, 0deg)
+    translate(-0.18200000000001637px, 0px);
+  display: block;
+  transform-origin: top left;
+  top: 15px;
+  left: 129px;
+  border-radius: 1.246px;
+}
+.lastNewsHeader {
+  display: block;
+  font-size: 23.048px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.005em;
+  line-height: 1.29999;
+  color: rgba(0, 0, 0, 1);
+  position: absolute;
+  top: 271px;
+  left: 143px;
+  width: 252px;
+  height: 30px;
+}
+.partnerstext {
+  display: block;
+  font-size: 23.048px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.005em;
+  line-height: 1.29999;
+  color: rgba(0, 0, 0, 1);
+  position: absolute;
+  top: 1787px;
+  left: 143px;
+}
+.freeBox__hyyQx {
+  display: block;
+  font-size: 23.048px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.005em;
+  line-height: 1.29999;
+  color: rgba(0, 0, 0, 1);
+  position: absolute;
+  top: 271px;
+  left: 1113px;
+}
+.profile {
+  width: 184px;
+  height: 235px;
+  display: block;
+  position: absolute;
+  top: 340px;
+  left: 1113px;
+}
+.group24 {
+  width: 184px;
+  height: 183px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+.image27 {
+  background: url("/plasmic/project_web/images/image27.png") 0px -26.486842105263158px / 183px 240.78947368421052px
+    no-repeat;
+  transform: translate(0px, -0.0009999999999763531px);
+  width: 183px;
+  height: 183px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+.svg__ocQu3 {
+  position: absolute;
+  object-fit: cover;
+  width: 102px;
+  height: 21px;
+  color: #bf211e;
+  display: block;
+  top: 162px;
+  left: 0px;
+}
+.freeBox__lGy6B {
+  display: block;
+  font-size: 11.524px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.005em;
+  line-height: 1.29999;
+  color: rgba(255, 255, 255, 1);
+  position: absolute;
+  top: 165px;
+  left: 5px;
+  width: 69px;
+  height: 15px;
+}
+.header7 {
+  display: block;
+  font-size: 18.684px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  letter-spacing: -0.005em;
+  line-height: 1.07999;
+  color: rgba(0, 0, 0, 1);
+  position: absolute;
+  top: 195px;
+  left: 0px;
+  width: 184px;
+  height: 40px;
+}
+.profile2 {
+  width: 184px;
+  height: 235px;
+  display: block;
+  position: absolute;
+  top: 604px;
+  left: 1113px;
+}
+.group25 {
+  width: 184px;
+  height: 183px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+.image28 {
+  background: url("/plasmic/project_web/images/image28.png") -79.04456327985739px 0px / 327.9857397504456px
+    184px no-repeat;
+  width: 184px;
+  height: 184px;
+  display: block;
+  position: absolute;
+  top: -1px;
+  left: 0px;
+}
+.svg__ppFZy {
+  position: absolute;
+  object-fit: cover;
+  width: 102px;
+  height: 21px;
+  color: #bf211e;
+  display: block;
+  top: 162px;
+  left: 0px;
+}
+.freeBox__j8DOl {
+  display: block;
+  font-size: 11.524px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.005em;
+  line-height: 1.29999;
+  color: rgba(255, 255, 255, 1);
+  position: absolute;
+  top: 165px;
+  left: 5px;
+  width: 69px;
+  height: 15px;
+}
+.header8 {
+  display: block;
+  font-size: 18.684px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  letter-spacing: -0.005em;
+  line-height: 1.07999;
+  color: rgba(0, 0, 0, 1);
+  position: absolute;
+  top: 195px;
+  left: 0px;
+  width: 184px;
+  height: 40px;
+}
+.profile3 {
+  width: 184px;
+  height: 235px;
+  display: block;
+  position: absolute;
+  top: 868px;
+  left: 1113px;
+}
+.group23 {
+  width: 184px;
+  height: 183px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+.image26 {
+  background: url("/plasmic/project_web/images/image26.png") -48.95412844036696px -12.860599078341012px /
+    281.3455657492354px 210.82949308755758px no-repeat;
+  width: 184px;
+  height: 183px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+.svg__sxkD {
+  position: absolute;
+  object-fit: cover;
+  width: 102px;
+  height: 21px;
+  color: #bf211e;
+  display: block;
+  top: 162px;
+  left: 0px;
+}
+.freeBox___6Fays {
+  display: block;
+  font-size: 11.524px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.005em;
+  line-height: 1.29999;
+  color: rgba(255, 255, 255, 1);
+  position: absolute;
+  top: 165px;
+  left: 5px;
+  width: 69px;
+  height: 15px;
+}
+.header9 {
+  display: block;
+  font-size: 18.684px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  letter-spacing: -0.005em;
+  line-height: 1.07999;
+  color: rgba(0, 0, 0, 1);
+  position: absolute;
+  top: 195px;
+  left: 0px;
+  width: 184px;
+  height: 40px;
+}
+.profile4 {
+  width: 184px;
+  height: 235px;
+  display: block;
+  position: absolute;
+  top: 1132px;
+  left: 1113px;
+}
+.group26 {
+  width: 184px;
+  height: 183px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+.image29 {
+  background: url("/plasmic/project_web/images/image27.png") 0px -26.486842105263158px / 183px 240.78947368421052px
+    no-repeat;
+  width: 183px;
+  height: 183px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+.svg__utTXf {
+  position: absolute;
+  object-fit: cover;
+  width: 102px;
+  height: 21px;
+  color: #bf211e;
+  display: block;
+  top: 162px;
+  left: 0px;
+}
+.freeBox__r7Wd6 {
+  display: block;
+  font-size: 11.524px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.005em;
+  line-height: 1.29999;
+  color: rgba(255, 255, 255, 1);
+  position: absolute;
+  top: 165px;
+  left: 5px;
+  width: 69px;
+  height: 15px;
+}
+.header10 {
+  display: block;
+  font-size: 18.684px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  letter-spacing: -0.005em;
+  line-height: 1.07999;
+  color: rgba(0, 0, 0, 1);
+  position: absolute;
+  top: 195px;
+  left: 0px;
+  width: 184px;
+  height: 40px;
+}
+.profile5 {
+  width: 184px;
+  height: 235px;
+  display: block;
+  position: absolute;
+  top: 1396px;
+  left: 1113px;
+}
+.group27 {
+  width: 184px;
+  height: 183px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+.image30 {
+  background: url("/plasmic/project_web/images/image28.png") -79.04456327985739px 0px / 327.9857397504456px
+    184px no-repeat;
+  width: 184px;
+  height: 184px;
+  display: block;
+  position: absolute;
+  top: -1px;
+  left: 0px;
+}
+.svg___4BIqW {
+  position: absolute;
+  object-fit: cover;
+  width: 102px;
+  height: 21px;
+  color: #bf211e;
+  display: block;
+  top: 162px;
+  left: 0px;
+}
+.freeBox___4QEvH {
+  display: block;
+  font-size: 11.524px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.005em;
+  line-height: 1.29999;
+  color: rgba(255, 255, 255, 1);
+  position: absolute;
+  top: 165px;
+  left: 5px;
+  width: 69px;
+  height: 15px;
+}
+.header11 {
+  display: block;
+  font-size: 18.684px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  letter-spacing: -0.005em;
+  line-height: 1.07999;
+  color: rgba(0, 0, 0, 1);
+  position: absolute;
+  top: 195px;
+  left: 0px;
+  width: 184px;
+  height: 40px;
+}
+.disclaimerText {
+  display: block;
+  font-size: 11px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.005em;
+  line-height: 1.18499;
+  color: rgba(190, 191, 191, 1);
+  position: absolute;
+  top: 202px;
+  left: 143px;
+}
+.group28 {
+  width: 274px;
+  height: 30px;
+  display: block;
+  position: absolute;
+  top: 1654px;
+  left: 141px;
+}
+.moreNewsButton {
+  display: block;
+  font-size: 23.048px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.005em;
+  line-height: 1.29999;
+  color: rgba(0, 0, 0, 1);
+  position: absolute;
+  top: 9px;
+  left: 0px;
+}
+.arrowButton {
+  position: absolute;
+  object-fit: cover;
+  width: 66px;
+  height: 16px;
+  color: #bf211e;
+  transform: skew(-0.057295760414500616deg, 0deg)
+    translate(-0.002999999999985903px, -0.47499999999990905px);
+  display: block;
+  transform-origin: top left;
+  top: 19px;
+  left: 209px;
+}
+.union1 {
+  background: url("/plasmic/project_web/images/union2.png") center center / cover no-repeat;
+  width: 120px;
+  height: 28px;
+  display: block;
+  position: absolute;
+  top: 1886px;
+  left: 143px;
+}
+.union8 {
+  background: url("/plasmic/project_web/images/union2.png") center center / cover no-repeat;
+  width: 120px;
+  height: 28px;
+  display: block;
+  position: absolute;
+  top: 1960px;
+  left: 143px;
+}
+.union3 {
+  background: url("/plasmic/project_web/images/union2.png") center center / cover no-repeat;
+  transform: translate(0.06200000000001182px, 0px);
+  width: 120px;
+  height: 28px;
+  display: block;
+  position: absolute;
+  top: 1886px;
+  left: 484px;
+}
+.union9 {
+  background: url("/plasmic/project_web/images/union2.png") center center / cover no-repeat;
+  transform: translate(0.06200000000001182px, 0px);
+  width: 120px;
+  height: 28px;
+  display: block;
+  position: absolute;
+  top: 1960px;
+  left: 484px;
+}
+.union5 {
+  background: url("/plasmic/project_web/images/union2.png") center center / cover no-repeat;
+  transform: translate(0.125px, 0px);
+  width: 120px;
+  height: 28px;
+  display: block;
+  position: absolute;
+  top: 1886px;
+  left: 825px;
+}
+.union10 {
+  background: url("/plasmic/project_web/images/union2.png") center center / cover no-repeat;
+  transform: translate(0.125px, 0px);
+  width: 120px;
+  height: 28px;
+  display: block;
+  position: absolute;
+  top: 1960px;
+  left: 825px;
+}
+.union2 {
+  background: url("/plasmic/project_web/images/union2.png") center center / cover no-repeat;
+  transform: translate(-0.4689999999999941px, 0px);
+  width: 120px;
+  height: 28px;
+  display: block;
+  position: absolute;
+  top: 1886px;
+  left: 314px;
+}
+.union11 {
+  background: url("/plasmic/project_web/images/union2.png") center center / cover no-repeat;
+  transform: translate(-0.4689999999999941px, 0px);
+  width: 120px;
+  height: 28px;
+  display: block;
+  position: absolute;
+  top: 1960px;
+  left: 314px;
+}
+.union4 {
+  background: url("/plasmic/project_web/images/union2.png") center center / cover no-repeat;
+  transform: translate(-0.4070000000000391px, 0px);
+  width: 120px;
+  height: 28px;
+  display: block;
+  position: absolute;
+  top: 1886px;
+  left: 655px;
+}
+.union12 {
+  background: url("/plasmic/project_web/images/union2.png") center center / cover no-repeat;
+  transform: translate(-0.4070000000000391px, 0px);
+  width: 120px;
+  height: 28px;
+  display: block;
+  position: absolute;
+  top: 1960px;
+  left: 655px;
+}
+.union6 {
+  background: url("/plasmic/project_web/images/union2.png") center center / cover no-repeat;
+  transform: translate(-0.34400000000005093px, 0px);
+  width: 120px;
+  height: 28px;
+  display: block;
+  position: absolute;
+  top: 1886px;
+  left: 996px;
+}
+.union13 {
+  background: url("/plasmic/project_web/images/union2.png") center center / cover no-repeat;
+  transform: translate(-0.34400000000005093px, 0px);
+  width: 120px;
+  height: 28px;
+  display: block;
+  position: absolute;
+  top: 1960px;
+  left: 996px;
+}
+.union7 {
+  background: url("/plasmic/project_web/images/union2.png") center center / cover no-repeat;
+  transform: translate(0.18699999999989814px, 0px);
+  width: 120px;
+  height: 28px;
+  display: block;
+  position: absolute;
+  top: 1886px;
+  left: 1166px;
+}
+.union14 {
+  background: url("/plasmic/project_web/images/union2.png") center center / cover no-repeat;
+  transform: translate(0.18699999999989814px, 0px);
+  width: 120px;
+  height: 28px;
+  display: block;
+  position: absolute;
+  top: 1960px;
+  left: 1166px;
+}
+.footer {
+  background: rgba(24, 22, 21, 1);
+  width: 1440px;
+  height: 292px;
+  display: block;
+  position: absolute;
+  top: 2086px;
+  left: 12px;
+}
+.footerTextDescription {
+  display: block;
+  font-size: 16px;
+  font-family: "Roboto Condensed", sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.005em;
+  line-height: 1.07999;
+  color: rgba(190, 191, 191, 1);
+  position: absolute;
+  top: 2207px;
+  left: 141px;
+  width: 576px;
+  height: 108px;
+}
+.footerTextButton {
+  display: block;
+  font-size: 16px;
+  font-family: "Roboto Condensed", sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.005em;
+  line-height: 1.07999;
+  color: rgba(190, 191, 191, 1);
+  position: absolute;
+  top: 2155px;
+  left: 1105px;
+}
+.footerTextButton2 {
+  display: block;
+  font-size: 16px;
+  font-family: "Roboto Condensed", sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.005em;
+  line-height: 1.07999;
+  color: rgba(190, 191, 191, 1);
+  position: absolute;
+  top: 2186px;
+  left: 1182px;
+}
+.footerText {
+  display: block;
+  font-size: 16px;
+  font-family: "Roboto Condensed", sans-serif;
+  font-weight: 700;
+  letter-spacing: -0.005em;
+  line-height: 1.07999;
+  color: rgba(190, 191, 191, 1);
+  position: absolute;
+  top: 2154px;
+  left: 141px;
+}
+.group20 {
+  width: 19px;
+  height: 19px;
+  display: block;
+  position: absolute;
+  top: 2292px;
+  left: 1269px;
+}
+.footerTextButton3 {
+  background: rgba(233, 233, 233, 1);
+  width: 21px;
+  height: 19px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+.disclaimerText2 {
+  display: block;
+  font-size: 11px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.005em;
+  line-height: 1.18499;
+  color: rgba(190, 191, 191, 1);
+  position: absolute;
+  top: 202px;
+  left: 881px;
+}
+.group29 {
+  width: 287px;
+  height: 383px;
+  display: block;
+  position: absolute;
+  top: 340px;
+  left: 142px;
+}
+.header4 {
+  display: block;
+  font-size: 20px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.005em;
+  line-height: 100%;
+  color: rgba(0, 0, 0, 1);
+  position: absolute;
+  top: 231px;
+  left: 0px;
+  width: 287px;
+  height: 51px;
+}
+.text {
+  display: block;
+  font-size: 16px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  letter-spacing: -0.005em;
+  line-height: 100%;
+  color: rgba(0, 0, 0, 1);
+  position: absolute;
+  top: 288px;
+  left: 1px;
+  width: 282px;
+}
+.group30 {
+  width: 282px;
+  height: 214px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 1px;
+}
+.newImage {
+  background: url("/plasmic/project_web/images/image29.png") 0.28228228228228225px -20.32717678100264px /
+    282.28228228228227px 282.32189973614777px no-repeat;
+  transform: translate(0px, -0.0009999999999763531px);
+  width: 282px;
+  height: 214px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+.group31 {
+  width: 287px;
+  height: 383px;
+  display: block;
+  position: absolute;
+  top: 340px;
+  left: 457px;
+}
+.header5 {
+  display: block;
+  font-size: 20px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.005em;
+  line-height: 100%;
+  color: rgba(0, 0, 0, 1);
+  position: absolute;
+  top: 231px;
+  left: 0px;
+  width: 287px;
+  height: 51px;
+}
+.text2 {
+  display: block;
+  font-size: 16px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  letter-spacing: -0.005em;
+  line-height: 100%;
+  color: rgba(0, 0, 0, 1);
+  position: absolute;
+  top: 288px;
+  left: 1px;
+  width: 282px;
+}
+.group32 {
+  width: 282px;
+  height: 214px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 1px;
+}
+.newImage2 {
+  background: url("/plasmic/project_web/images/image29.png") 0.28228228228228225px -20.32717678100264px /
+    282.28228228228227px 282.32189973614777px no-repeat;
+  transform: translate(0px, -0.0009999999999763531px);
+  width: 282px;
+  height: 214px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+.group33 {
+  width: 287px;
+  height: 383px;
+  display: block;
+  position: absolute;
+  top: 340px;
+  left: 772px;
+}
+.header6 {
+  display: block;
+  font-size: 20px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.005em;
+  line-height: 100%;
+  color: rgba(0, 0, 0, 1);
+  position: absolute;
+  top: 231px;
+  left: 0px;
+  width: 287px;
+  height: 51px;
+}
+.text3 {
+  display: block;
+  font-size: 16px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  letter-spacing: -0.005em;
+  line-height: 100%;
+  color: rgba(0, 0, 0, 1);
+  position: absolute;
+  top: 288px;
+  left: 1px;
+  width: 282px;
+}
+.group34 {
+  width: 282px;
+  height: 214px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 1px;
+}
+.newImage3 {
+  background: url("/plasmic/project_web/images/image29.png") 0.28228228228228225px -20.32717678100264px /
+    282.28228228228227px 282.32189973614777px no-repeat;
+  transform: translate(0px, -0.0009999999999763531px);
+  width: 282px;
+  height: 214px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+.group35 {
+  width: 869px;
+  height: 249px;
+  display: block;
+  position: absolute;
+  top: 790px;
+  left: 142px;
+}
+.header3 {
+  display: block;
+  font-size: 35px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.005em;
+  line-height: 100%;
+  color: rgba(0, 0, 0, 1);
+  position: absolute;
+  top: 0px;
+  left: 265px;
+  width: 589px;
+  height: 77px;
+}
+.description {
+  display: block;
+  font-size: 17px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  letter-spacing: -0.005em;
+  line-height: 100%;
+  color: rgba(0, 0, 0, 1);
+  position: absolute;
+  top: 86px;
+  left: 265px;
+  width: 604px;
+}
+.date3 {
+  display: block;
+  font-size: 14.542px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  letter-spacing: -0.005em;
+  line-height: 100%;
+  color: rgba(190, 191, 191, 1);
+  position: absolute;
+  top: 231px;
+  left: 265px;
+  width: 71px;
+  height: 18px;
+}
+.group36 {
+  width: 227px;
+  height: 172px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+.newImage4 {
+  background: url("/plasmic/project_web/images/image29.png") center center / cover no-repeat;
+  width: 222px;
+  height: 203px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 2px;
+}
+.news2 {
+  width: 869px;
+  height: 190px;
+  display: block;
+  position: absolute;
+  top: 1095px;
+  left: 142px;
+}
+.header2 {
+  display: block;
+  font-size: 35px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.005em;
+  line-height: 100%;
+  color: rgba(0, 0, 0, 1);
+  position: absolute;
+  top: 0px;
+  left: 265px;
+  width: 589px;
+  height: 77px;
+}
+.description2 {
+  display: block;
+  font-size: 17px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  letter-spacing: -0.005em;
+  line-height: 100%;
+  color: rgba(0, 0, 0, 1);
+  position: absolute;
+  top: 86px;
+  left: 265px;
+  width: 604px;
+}
+.date2 {
+  display: block;
+  font-size: 14.542px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  letter-spacing: -0.005em;
+  line-height: 100%;
+  color: rgba(190, 191, 191, 1);
+  position: absolute;
+  top: 172px;
+  left: 265px;
+  width: 71px;
+  height: 18px;
+}
+.group38 {
+  width: 227px;
+  height: 172px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+.newImage5 {
+  background: url("/plasmic/project_web/images/image29.png") center center / cover no-repeat;
+  width: 222px;
+  height: 193px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 2px;
+}
+.news {
+  width: 869px;
+  height: 249px;
+  display: block;
+  position: absolute;
+  top: 1375px;
+  left: 142px;
+}
+.header {
+  display: block;
+  font-size: 35px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.005em;
+  line-height: 100%;
+  color: rgba(0, 0, 0, 1);
+  position: absolute;
+  top: 0px;
+  left: 265px;
+  width: 589px;
+  height: 77px;
+}
+.description3 {
+  display: block;
+  font-size: 17px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  letter-spacing: -0.005em;
+  line-height: 100%;
+  color: rgba(0, 0, 0, 1);
+  position: absolute;
+  top: 86px;
+  left: 265px;
+  width: 604px;
+}
+.date {
+  display: block;
+  font-size: 14.542px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  letter-spacing: -0.005em;
+  line-height: 100%;
+  color: rgba(190, 191, 191, 1);
+  position: absolute;
+  top: 231px;
+  left: 265px;
+  width: 71px;
+  height: 18px;
+}
+.group40 {
+  width: 227px;
+  height: 172px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+.newImage6 {
+  background: url("/plasmic/project_web/images/image29.png") center center / cover no-repeat;
+  width: 222px;
+  height: 212px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 2px;
+}
